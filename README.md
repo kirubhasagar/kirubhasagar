@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9110fbab-bf0d-4e9c-b5be-ca38826cb912" />
+
 
 ## Hi there 👋 I'm kirubha sagar
 
