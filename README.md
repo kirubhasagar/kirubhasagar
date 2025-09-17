@@ -12,6 +12,8 @@
 - 💬 Ask me about **disassemblers, debugging tricks, network fundamentals, or writing reliable PoC exploits**.
 - 📫 How to reach me: **sag07.t@gmail.com** • [LinkedIn](www.linkedin.com/in/kirubha-sagar-2388a0291)
 - 😄 Pronouns: **he/him**
+
+TOOLS I AM FAMILIAR WITH
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
